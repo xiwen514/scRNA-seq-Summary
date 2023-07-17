@@ -1,0 +1,5 @@
+
+#### Introduction:
+This section aims to provide a comprehensive summary of the insights and lessons I have gained from my experience in analyzing single-cell sequencing data. It encompasses essential aspects such as commonly used code for routine analyses, frequently employed databases, strategies to address specific challenges encountered, and approaches for debugging errors.
+#### Key Tutorials:
+Two tutorials that I frequently rely on for single-cell sequencing data analysis are OSCA and Seurat. These tutorials utilize distinct data structures: OSCA employs SingleCellExperiment, while Seurat utilizes its own custom structure called "seurat."
