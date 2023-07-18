@@ -15,5 +15,31 @@ Tumor Immune Single-cell Hub 2 (TISCH2) is a scRNA-seq database focusing on tumo
 4. TCGA
 
 ##### 怎样在不同的癌种数据中选取表达稳定且表达值较高的的基因?
+1. CV
+2. mean
+   
 ##### 细胞类型注释的方法有哪些?
+1. singleR
+2. seurat
+3. 手动注释
+4. Azimuth
+   
 ##### 判断batch effect以及怎样矫正？
+1. combat
+2. limma
+3. TAMPOR
+   
+#### exploratory analysis
+1. pca
+2. heatmap
+3. boxplot
+4. volcano plot
+   
+#### differentital expression analysis
+1. edgeR
+2. Deseq2
+   
+
+#### differential abundance analysis
+
+
