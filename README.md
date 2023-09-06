@@ -22,7 +22,8 @@ Tumor Immune Single-cell Hub 2 (TISCH2) is a scRNA-seq database focusing on tumo
 ##### Batch effect correction
 1. combat
 2. limma
-3. TAMPOR
+3. TAMPOR: https://github.com/edammer/TAMPOR
+4. Linear regression(wgcna) : empiricalBayesLM( )
    
 ##### Exploratory analysis
 1. pca
