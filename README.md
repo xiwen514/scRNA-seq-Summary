@@ -12,24 +12,23 @@ Tumor Immune Single-cell Hub 2 (TISCH2) is a scRNA-seq database focusing on tumo
 3. GEO
 4. TCGA
 
-   
-##### cell type annotation
-1. singleR
-2. seurat
-3. manually annotation
-4. Azimuth
-   
 ##### Batch effect correction
 1. combat
 2. limma
 3. TAMPOR: https://github.com/edammer/TAMPOR
 4. Linear regression(wgcna) : empiricalBayesLM( )
-   
+
 ##### Exploratory analysis
 1. pca
 2. heatmap
 3. boxplot
 4. volcano plot
+
+##### cell type annotation
+1. singleR
+2. seurat
+3. manually annotation
+4. Azimuth
    
 ##### Differentital expression analysis
 1. edgeR
