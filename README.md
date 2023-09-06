@@ -24,17 +24,17 @@ Tumor Immune Single-cell Hub 2 (TISCH2) is a scRNA-seq database focusing on tumo
 2. limma
 3. TAMPOR
    
-#### Exploratory analysis
+##### Exploratory analysis
 1. pca
 2. heatmap
 3. boxplot
 4. volcano plot
    
-#### Differentital expression analysis
+##### Differentital expression analysis
 1. edgeR
 2. Deseq2
    
 
-#### Differential abundance analysis
+##### Differential abundance analysis
 
 
