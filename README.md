@@ -16,7 +16,7 @@ Tumor Immune Single-cell Hub 2 (TISCH2) is a scRNA-seq database focusing on tumo
 ##### cell type annotation
 1. singleR
 2. seurat
-3. mannually annotation
+3. manually annotation
 4. Azimuth
    
 ##### Batch effect correction
